@@ -24,16 +24,16 @@ const imageAltText = "purple and blue abstract background";
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I'm a UI/UX student studying at Barnett Technical University. I enjoy creating unique and simplistic user interfaces in creative ways.";
+  "Hi! I'm in my last year studying Artificial Intelligence. I love learning about machine learning and I'm really interested in how it can help in healthcare. As a Microsoft Learn Student Ambassador, I enjoy sharing what I know and learning new things. When I'm not studying, I'm exploring how tech can improve health. Excited to see where this journey takes me!";
 
 /**
  * List of some of skills or technologies you work on, are learning,
  * passionate about, or enjoy,
  */
 const skillsList = [
-  "AI",
-  "ML",
-  "DL",
+  "Artificial Intelligence",
+  "Machine Learning",
+  "Deep Learning",
   "Computer Vision",
   "Natural Language Processing",
   "Graphic design",
